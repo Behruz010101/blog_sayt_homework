@@ -1,1 +1,2 @@
-# blog_sayt_homework
+# blog_site
+blog site in django
